@@ -14,8 +14,6 @@
 
 [<img align="left" alt="https://www.linkedin.com/in/rajat-garg-1bb2831b2/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rajat-garg-1bb2831b2/)
 [<img align="left" alt="rajatgarg2 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.com/channels/@me)
-[<img align="left" alt="rajatgarg2 | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />](https://join.slack.com/t/rajat-garg/shared_invite/zt-hnl48s6u-RMwSF6VTL89NzFKn5rElMA)
-[<img align="left" alt="rajatgarg2 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]("https://mail.google.com/mail/u/0/#inbox?compose=raghavgarg2001@gmail.com")
 <br/>
 
 ---
