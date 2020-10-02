@@ -40,3 +40,5 @@
 <p><img align="left" src="https://github-readme-stats-nu-livid.vercel.app/api/top-langs/?username=rajatgarg2&layout=compact&hide=html" alt="rajatgarg2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-nu-livid.vercel.app/api?username=rajatgarg2&show_icons=true" alt="rajatgarg2" /></p>
+
+![](https://komarev.com/ghpvc/?username=rajatgarg2&label=PROFILE+VIEWS&style=plastic)
