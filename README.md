@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on a Full Stack Web Development
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with like minded people
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel
 
 ---
